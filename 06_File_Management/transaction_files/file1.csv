@@ -1,0 +1,6 @@
+﻿CustomerId,SalesOrderId,TransactionDate,GrandTotal,Status
+1,36777536,6/1/21,180,fulfilled
+2,36914274,6/1/21,119.94,fulfilled
+3,37054577,6/1/21,119.95,returned
+4,37137392,6/1/21,132.44,fulfilled
+5,37075736,6/1/21,158.9,fulfilled
